@@ -1,3 +1,4 @@
 #ignore stuff in here
 
-
+Library/*
+Temp/*
